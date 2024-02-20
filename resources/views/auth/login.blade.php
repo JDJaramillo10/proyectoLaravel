@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+//Aca se plantea la creacion de un nuevo atributo "tipoUsuario" a la tabla usuarios, la cual dejara elegir entre cliente y primario. 
 @section('content')
 <div class="container">
     <div class="row justify-content-center">
